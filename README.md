@@ -6,6 +6,11 @@
 - **Installation & Usage Instructions**  
 - **Results & Conclusion**  
 
+### 🚀 Streamlit Web App Deployment  
+
+The project is **deployed on Streamlit Cloud**, allowing users to interact with different models.  
+
+🔗 **Live Demo**: [Click here to access](https://websitetrafficprediction-gniaputvpj5nrgwpp23xio.streamlit.app/)
 ---
 
 ## 🚀 Website Traffic Prediction  
@@ -57,14 +62,6 @@ The dataset consists of multiple website traffic features:
 - **Polynomial Regression performed the best** with an **R² of 0.2669**, but it showed signs of **overfitting**.  
 - **Ridge Regression helped in reducing overfitting**, balancing **bias-variance tradeoff**.  
 - The dataset **does not fully explain** conversion rate variations, suggesting the need for additional features.  
-
----
-
-### 🚀 Streamlit Web App Deployment  
-
-The project is **deployed on Streamlit Cloud**, allowing users to interact with different models.  
-
-🔗 **Live Demo**: [Click here to access](https://websitetrafficprediction-gniaputvpj5nrgwpp23xio.streamlit.app/)
 
 ---
 
