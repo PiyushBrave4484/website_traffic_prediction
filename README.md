@@ -1,8 +1,7 @@
-
+- **Deployment Details**
 - **Project Overview**  
 - **Dataset Details**  
-- **Modeling Approach**  
-- **Deployment Details**  
+- **Modeling Approach**    
 - **Installation & Usage Instructions**  
 - **Results & Conclusion**  
 
