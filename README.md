@@ -9,8 +9,7 @@
 ### 🚀 Streamlit Web App Deployment  
 
 The project is **deployed on Streamlit Cloud**, allowing users to interact with different models.  
-
-🔗 **Live Demo**: [Click here to access](https://websitetrafficprediction-gniaputvpj5nrgwpp23xio.streamlit.app/)
+🔗 [![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-blue)](https://websitetrafficprediction-gniaputvpj5nrgwpp23xio.streamlit.app/)
 ---
 
 ## 🚀 Website Traffic Prediction  
