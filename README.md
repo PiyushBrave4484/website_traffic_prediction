@@ -1,4 +1,3 @@
-Great! Here's a **README.md** file for your repository. This README includes:  
 
 - **Project Overview**  
 - **Dataset Details**  
@@ -100,9 +99,7 @@ streamlit run traffic.py
 ```
 
 ---
-
-### 📢 Contributing  
-If you'd like to improve this project, feel free to fork the repository and submit a pull request! 😊  
+ 
 
 ---
 
