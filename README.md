@@ -64,7 +64,7 @@ The dataset consists of multiple website traffic features:
 
 The project is **deployed on Streamlit Cloud**, allowing users to interact with different models.  
 
-🔗 **Live Demo**: [Click here to access](https://your-streamlit-app-link) *(Replace with your actual link)*  
+🔗 **Live Demo**: [Click here to access](https://websitetrafficprediction-gniaputvpj5nrgwpp23xio.streamlit.app/)
 
 ---
 
